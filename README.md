@@ -43,3 +43,5 @@ All credits go to the [Univertisy of Miami Bootcamp](https://bootcamp.miami.edu/
 ## Link to Website
 
 You can see the website [here](https://barrerse.github.io/Module1-Challenge/)
+
+![Module 1](https://imgur.com/ioLPWsY)
