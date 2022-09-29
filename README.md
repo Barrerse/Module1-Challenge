@@ -1,8 +1,17 @@
-# Module1-Challenge
+
+# Module 1 Challange 
+
+## Description
+
 Module1 Challenge for UM Coding Bootcamp - Adding accessibility to a website. 
 
-# About challange 
-This module has an edited index and style file that has been updated to include Semnatic HTML Elements and fixed img alt elements to improve the accessability. 
+## Installation
+
+N/A
+
+## Usage
+
+Made the wesbite more accessible with the following acceptance criteria
 *GIVEN a webpage meets accessibility standards
 *WHEN I view the source code
 *THEN I find semantic HTML elements
@@ -15,5 +24,11 @@ This module has an edited index and style file that has been updated to include 
 *WHEN I view the title element
 *THEN I find a concise, descriptive title
 
-# Website
-https://barrerse.github.io/Module1-Challenge/
+
+## Credits
+
+All credits go to the [Univertisy of Miami Bootcamp](https://bootcamp.miami.edu/) for developing this homework module. 
+
+## Link to Website
+
+You can see the website [here](https://barrerse.github.io/Module1-Challenge/)
