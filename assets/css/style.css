@@ -25,19 +25,20 @@ header h1 .seo {
     color: #d9dcd6;
 }
 /* removed the ID selector  */
-header div {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    list-style-type: none;
 }
-/* removed the ID selector  */
-header div ul {
+
+nav ul {
     list-style-type: none;
 }
 /* removed the ID selector  */
-header div ul li {
+nav li {
     display: inline-block;
     margin-left: 25px;
 }
