@@ -42,7 +42,7 @@ All credits go to the [Univertisy of Miami Bootcamp](https://bootcamp.miami.edu/
 
 ## Link to Website
 
-You can see the website [here](https://barrerse.github.io/Module1-Challenge/)
+You can see the website [here](https://barrerse.github.io/horiseonRefactor/)
 
 ![Image of Website](https://user-images.githubusercontent.com/108836644/193148355-2751f954-7aa5-482c-b2c4-25bb8f0d036d.jpg)
 
